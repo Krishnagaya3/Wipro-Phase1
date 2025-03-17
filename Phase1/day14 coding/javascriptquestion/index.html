@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Tasks</title>
+</head>
+<body>
+    <h2>JavaScript Tasks</h2>
+    
+    <button onclick="displayEvenNumbers()">Display Even Numbers (1-20)</button>
+    <p id="evenNumbers"></p>
+    
+    <input type="number" id="factorialInput" placeholder="Enter a number">
+    <button onclick="checkFactorial()">Check Factorial</button>
+    <p id="factorialResult"></p>
+    
+    <input type="text" id="charInput" maxlength="1" placeholder="Enter a character">
+    <button onclick="checkVowel()">Check Vowel</button>
+    <p id="vowelResult"></p>
+    
+    <button onclick="sumArray()">Sum of Array Elements</button>
+    <p id="sumResult"></p>
+    
+    <button onclick="displayEvenElements()">Display Even Elements from Array</button>
+    <p id="evenArray"></p>
+    
+    <script>
+        function displayEvenNumbers() {
+            let evens = [];
+            for (let i = 1; i <= 20; i++) {
+                if (i % 2 === 0) {
+                    evens.push(i);
+                }
+            }
+            document.getElementById("evenNumbers").innerText = "Even Numbers: " + evens.join(", ");
+        }
+
+        function factorial(n) {
+            if (n === 0 || n === 1) return 1;
+            return n * factorial(n - 1);
+        }
+
+        function checkFactorial() {
+            let num = parseInt(document.getElementById("factorialInput").value);
+            if (isNaN(num) || num < 0) {
+                document.getElementById("factorialResult").innerText = "Please enter a valid positive number.";
+                return;
+            }
+            let result = factorial(num);
+            document.getElementById("factorialResult").innerText = `Factorial of ${num} is ${result}`;
+        }
+
+        function checkVowel() {
+            let char = document.getElementById("charInput").value.toLowerCase();
+            let vowels = ['a', 'e', 'i', 'o', 'u'];
+            let result = vowels.includes(char) ? "is a vowel" : "is not a vowel";
+            document.getElementById("vowelResult").innerText = `Character '${char}' ${result}.`;
+        }
+
+        function sumArray() {
+            let numbers = [2, 5, 7, 10, 15];
+            let sum = numbers.reduce((acc, num) => acc + num, 0);
+            document.getElementById("sumResult").innerText = `Sum of array elements: ${sum}`;
+        }
+
+        function displayEvenElements() {
+            let numbers = [2, 5, 7, 10, 15, 20, 25];
+            let evens = numbers.filter(num => num % 2 === 0);
+            document.getElementById("evenArray").innerText = "Even elements: " + evens.join(", ");
+        }
+    </script>
+</body>
+</html>
