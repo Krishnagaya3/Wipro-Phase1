@@ -1,7 +1,0 @@
-D:\wipro project\dotnet training session\demo project\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-D:\wipro project\dotnet training session\demo project\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-D:\wipro project\dotnet training session\demo project\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-D:\wipro project\dotnet training session\demo project\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-D:\wipro project\dotnet training session\demo project\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-D:\wipro project\dotnet training session\demo project\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-D:\wipro project\dotnet training session\demo project\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

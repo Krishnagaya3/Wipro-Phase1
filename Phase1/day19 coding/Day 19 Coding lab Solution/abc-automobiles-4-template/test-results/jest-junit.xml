@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="2" failures="0" errors="0" time="18.895">
-  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2024-03-22T10:04:29" time="13.053" tests="2">
-    <testcase classname=" check form fields" name=" check form fields" time="0.043">
-    </testcase>
-    <testcase classname="AddVehicle submits form and displays response" name="AddVehicle submits form and displays response" time="1.011">
-    </testcase>
-  </testsuite>
-</testsuites>

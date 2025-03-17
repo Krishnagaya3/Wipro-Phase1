@@ -1,7 +1,0 @@
-D:\wipro project\dotnet training session\demo project\day4 coding\EncapsulationExample\EncapsulationExample\bin\Debug\EncapsulationExample.exe.config
-D:\wipro project\dotnet training session\demo project\day4 coding\EncapsulationExample\EncapsulationExample\bin\Debug\EncapsulationExample.exe
-D:\wipro project\dotnet training session\demo project\day4 coding\EncapsulationExample\EncapsulationExample\bin\Debug\EncapsulationExample.pdb
-D:\wipro project\dotnet training session\demo project\day4 coding\EncapsulationExample\EncapsulationExample\obj\Debug\EncapsulationExample.csproj.AssemblyReference.cache
-D:\wipro project\dotnet training session\demo project\day4 coding\EncapsulationExample\EncapsulationExample\obj\Debug\EncapsulationExample.csproj.CoreCompileInputs.cache
-D:\wipro project\dotnet training session\demo project\day4 coding\EncapsulationExample\EncapsulationExample\obj\Debug\EncapsulationExample.exe
-D:\wipro project\dotnet training session\demo project\day4 coding\EncapsulationExample\EncapsulationExample\obj\Debug\EncapsulationExample.pdb

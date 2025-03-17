@@ -1,7 +1,0 @@
-D:\wipro project\dotnet training session\demo project\day4 coding\PolymorphismExample\PolymorphismExample\bin\Debug\PolymorphismExample.exe.config
-D:\wipro project\dotnet training session\demo project\day4 coding\PolymorphismExample\PolymorphismExample\bin\Debug\PolymorphismExample.exe
-D:\wipro project\dotnet training session\demo project\day4 coding\PolymorphismExample\PolymorphismExample\bin\Debug\PolymorphismExample.pdb
-D:\wipro project\dotnet training session\demo project\day4 coding\PolymorphismExample\PolymorphismExample\obj\Debug\PolymorphismExample.csproj.AssemblyReference.cache
-D:\wipro project\dotnet training session\demo project\day4 coding\PolymorphismExample\PolymorphismExample\obj\Debug\PolymorphismExample.csproj.CoreCompileInputs.cache
-D:\wipro project\dotnet training session\demo project\day4 coding\PolymorphismExample\PolymorphismExample\obj\Debug\PolymorphismExample.exe
-D:\wipro project\dotnet training session\demo project\day4 coding\PolymorphismExample\PolymorphismExample\obj\Debug\PolymorphismExample.pdb
