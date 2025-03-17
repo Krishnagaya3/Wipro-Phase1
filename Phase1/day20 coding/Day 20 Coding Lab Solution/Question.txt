@@ -1,0 +1,27 @@
+4. Continuing the previous project setup
+
+a. Create a new component called "add-vehicle"
+b. Design a form with needed fields to add a "car" data to the json-server with bootstrap with below mentioned validations
+c. 	image [mandate]
+	name [mandate and min 5 chars]
+	price [mandate and always above 0]
+	mileage [mandate and always above 0]
+	seats [mandate and always above 0 and below 7]
+d. Submit the form using a formik
+e. Store the car information to the json-server
+f. Use a span tag with data-testid="response" to show "success" after axios post action
+g. The new car must be displayed in the "vehicle-list" component [completed on day 4]
+h. Create a pure component called "block" to take two props - name, count. Load the "block" component three times with different block data like User - 39, Tasks - 60, Completed - 50
+
+Form details:
+
+data-testid="image"
+data-testid="name"
+data-testid="price"
+data-testid="mileage"
+data-testid="color"
+data-testid="seats"
+data-testid="fuel"
+data-testid="gear"
+data-testid="description"
+
