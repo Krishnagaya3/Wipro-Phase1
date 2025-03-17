@@ -1,0 +1,10 @@
+2025-02-06 09:41:59.2131|INFO|LoggingExample.AuthenticationService|Login attempt has made : niti
+2025-02-06 09:41:59.3950|INFO|LoggingExample.AuthenticationService|Login successful for username : niti
+2025-02-06 09:41:59.3950|INFO|LoggingExample.AuthenticationService|Login attempt has made : nitifd
+2025-02-06 09:41:59.3950|WARN|LoggingExample.AuthenticationService|Login failed : Incorrect password for the user : nitifd
+2025-02-06 09:43:34.7434|INFO|LoggingExample.AuthenticationService|Login attempt has made : niti
+2025-02-06 09:43:34.8224|INFO|LoggingExample.AuthenticationService|Login successful for username : niti
+2025-02-06 09:43:34.8224|INFO|LoggingExample.AuthenticationService|Login attempt has made : nitifd
+2025-02-06 09:43:34.8224|WARN|LoggingExample.AuthenticationService|Login failed : Incorrect password for the user : nitifd
+2025-02-06 10:02:02.9877|INFO|LoggingExample.AuthenticationService|Login attempt has made : niti
+2025-02-06 10:02:03.0961|INFO|LoggingExample.AuthenticationService|Login successful for username : niti
