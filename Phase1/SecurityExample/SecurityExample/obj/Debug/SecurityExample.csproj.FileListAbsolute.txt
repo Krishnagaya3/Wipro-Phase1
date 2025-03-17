@@ -1,0 +1,10 @@
+D:\wipro project\dotnet training session\demo project\day10 coding\SecurityExample\SecurityExample\bin\Debug\SecurityExample.exe.config
+D:\wipro project\dotnet training session\demo project\day10 coding\SecurityExample\SecurityExample\bin\Debug\SecurityExample.exe
+D:\wipro project\dotnet training session\demo project\day10 coding\SecurityExample\SecurityExample\bin\Debug\SecurityExample.pdb
+D:\wipro project\dotnet training session\demo project\day10 coding\SecurityExample\SecurityExample\bin\Debug\NLog.dll
+D:\wipro project\dotnet training session\demo project\day10 coding\SecurityExample\SecurityExample\bin\Debug\NLog.xml
+D:\wipro project\dotnet training session\demo project\day10 coding\SecurityExample\SecurityExample\obj\Debug\SecurityExample.csproj.AssemblyReference.cache
+D:\wipro project\dotnet training session\demo project\day10 coding\SecurityExample\SecurityExample\obj\Debug\SecurityExample.csproj.CoreCompileInputs.cache
+D:\wipro project\dotnet training session\demo project\day10 coding\SecurityExample\SecurityExample\obj\Debug\Security.125F2E0E.Up2Date
+D:\wipro project\dotnet training session\demo project\day10 coding\SecurityExample\SecurityExample\obj\Debug\SecurityExample.exe
+D:\wipro project\dotnet training session\demo project\day10 coding\SecurityExample\SecurityExample\obj\Debug\SecurityExample.pdb
