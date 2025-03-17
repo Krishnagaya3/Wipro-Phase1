@@ -1,0 +1,14 @@
+D:\wipro project\dotnet training session\demo project\day12 coding\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\wipro project\dotnet training session\demo project\day12 coding\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfoInputs.cache
+D:\wipro project\dotnet training session\demo project\day12 coding\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfo.cs
+D:\wipro project\dotnet training session\demo project\day12 coding\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.csproj.CoreCompileInputs.cache
+D:\wipro project\dotnet training session\demo project\day12 coding\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.exe
+D:\wipro project\dotnet training session\demo project\day12 coding\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.deps.json
+D:\wipro project\dotnet training session\demo project\day12 coding\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.runtimeconfig.json
+D:\wipro project\dotnet training session\demo project\day12 coding\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.dll
+D:\wipro project\dotnet training session\demo project\day12 coding\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.pdb
+D:\wipro project\dotnet training session\demo project\day12 coding\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.dll
+D:\wipro project\dotnet training session\demo project\day12 coding\DesignPattern\DesignPattern\obj\Debug\net8.0\refint\DesignPattern.dll
+D:\wipro project\dotnet training session\demo project\day12 coding\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.pdb
+D:\wipro project\dotnet training session\demo project\day12 coding\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.genruntimeconfig.cache
+D:\wipro project\dotnet training session\demo project\day12 coding\DesignPattern\DesignPattern\obj\Debug\net8.0\ref\DesignPattern.dll

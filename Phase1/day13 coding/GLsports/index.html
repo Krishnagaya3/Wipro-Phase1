@@ -1,0 +1,91 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GLSports</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+          .navbar {
+              background-color: #333;
+              overflow: hidden;
+              position: fixed;
+              top: 0;
+              width: 100%;
+              z-index: 1000;
+          }
+          .navbar a {
+              float: left;
+              display: block;
+              color: white;
+              text-align: center;
+              padding: 14px 20px;
+              text-decoration: none;
+          }
+          .navbar a:hover {
+              background-color: #ddd;
+              color: black;
+          }
+                .content {
+                    padding: 60px 20px;
+                }
+                .tab-content {
+                    display: none;
+                    padding: 20px;
+                }
+        .active {
+            display: block;
+        }
+        .footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="#" onclick="showTab('home')">Home</a>
+        <a href="#" onclick="showTab('about us')">About</a>
+        <a href="#" onclick="showTab('about us')">Indoor</a>
+        <a href="#" onclick="showTab('about us')">Outdoor</a>
+
+        <a href="#" onclick="showTab('about us')">History</a>
+        <a href="#" onclick="showTab('contact')">Contact</a>
+    </div>
+    
+    <div class="content">
+        <div id="home" class="tab-content active">
+            <h2>Welcome to GL Sports</h2>
+            <p>Discover the best in sports updates and news.</p>
+        </div>
+        <div id="about" class="tab-content">
+            <h2>About Us</h2>
+            <p>GLSports is your go-to source for all things sports.</p>
+        </div>
+        <div id="contact" class="tab-content">
+            <h2>Contact Us</h2>
+            <p>Email us at contact@glsports.com</p>
+        </div>
+    </div>
+    
+    <div class="footer">
+        <p>&copy; 2025 GLSports. All Rights Reserved.</p>
+    </div>
+    
+    <script>
+        function showTab(tabId) {
+            var tabs = document.querySelectorAll('.tab-content');
+            tabs.forEach(tab => tab.classList.remove('active'));
+            document.getElementById(tabId).classList.add('active');
+        }
+    </script>
+</body>
+</html>
